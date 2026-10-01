@@ -1,0 +1,9 @@
+# Allowlist: ignore everything, then un-ignore only the tracked source files
+*
+!.gitignore
+!spin_glass_lib.py
+!run_tc_sweep.py
+!sk_exact_enumeration_D10.py
+!make_plots.py
+!compute_tc.py
+!multi_N_crossing_bootstrap.py
